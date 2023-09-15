@@ -51,7 +51,7 @@ export default class Content extends Component {
                     <div className='col-6'>
                         <img style={{ height: "350px" }} src={model} />
                     </div>
-                    <div className='col-12' style={{ backgroundColor: "white", marginTop: "50px" }}>
+                    <div className='col-12' style={{ backgroundColor: "#f5e8db", marginTop: "50px" }}>
 
                         <div className='row' style={{ height: "300px", alignContent: "space-around" }}>
                             {this.renderListglasses()}

@@ -8,7 +8,7 @@ export default class Glasses extends Component {
         return (
             <div
                 style={{
-                    background: "#F5F5DC",
+                    background: "#e8f5db",
                     display: "block",
                     width: "100%",
                     height: "951px"
